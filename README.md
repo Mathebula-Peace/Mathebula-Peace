@@ -1,6 +1,6 @@
 ## Hi there 👋  
 
-I'm **Mathebula Peace Kurhula**, a passionate **web developer, animator, and multimedia computing student** with expertise in various areas of tech and design.  
+I'm **Mathebula Peace Kurhula**, a passionate **Web developer, Animator, and Multimedia Computing Student** with expertise in various areas of tech and design.  
 
 🌐 Web Development
 Languages & Technologies: Proficient in HTML, CSS, and JavaScript.
